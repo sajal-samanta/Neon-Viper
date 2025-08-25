@@ -35,6 +35,8 @@ Avoid hitting the walls or your own tail – or the game ends!
 After game over, press Restart to play again.
 
 
+
+
 Screenshot:
 <img width="1687" height="930" alt="image" src="https://github.com/user-attachments/assets/b1054a25-1395-4d55-b6b3-a5ece1fa7628" />
 
